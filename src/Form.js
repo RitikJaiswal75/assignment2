@@ -48,10 +48,10 @@ const Form = () => {
       <button type="submit" className="btn btn-success">Submit</button>
     </form>
     <div id="details" className="container text-center card w-50 my-4">
-      <h3 id="fn" className="text-center"></h3>
-      <h3 id="ln" className="text-center"></h3>
-      <h4 id="email" className="text-center"></h4>
-      <h4 id="sub" className="text-center"></h4>
+      <strong id="fn" className="text-center"></strong>
+      <strong id="ln" className="text-center"></strong>
+      <strong id="email" className="text-center"></strong>
+      <strong id="sub" className="text-center"></strong>
     </div>
     <br />
     <br />
